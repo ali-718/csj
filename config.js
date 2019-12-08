@@ -1,13 +1,13 @@
-import * as Firebase from "firebase";
+import * as firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyBQQS-S58LWpNj4MqMRI0q7NVaxRnga05Y",
-  authDomain: "leaders-4e656.firebaseapp.com",
-  databaseURL: "https://leaders-4e656.firebaseio.com",
-  projectId: "leaders-4e656",
-  storageBucket: "leaders-4e656.appspot.com",
-  messagingSenderId: "84732049029",
-  appId: "1:84732049029:web:dd85b1c5a765e6b2309bec"
+  apiKey: "AIzaSyDwu9ELRm1dxsHcQeEvrO6betoSMalFJ0M",
+  authDomain: "cloud-995bd.firebaseapp.com",
+  databaseURL: "https://cloud-995bd.firebaseio.com",
+  projectId: "cloud-995bd",
+  storageBucket: "cloud-995bd.appspot.com",
+  messagingSenderId: "880096155692",
+  appId: "1:880096155692:web:25825884b832ad76531989"
 };
 
-Firebase.initializeApp(firebaseConfig);
+firebase.initializeApp(firebaseConfig);
